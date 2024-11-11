@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1731324208662,
+      "tag": "0000_nostalgic_black_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1731324545845,
+      "tag": "0001_flashy_blue_shield",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1731325128728,
+      "tag": "0002_milky_cassandra_nova",
+      "breakpoints": true
+    }
+  ]
+}
